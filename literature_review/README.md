@@ -1,1 +1,1 @@
-literature_review/qualitative_data/README.md
+Delete incorrect literature_review folder
