@@ -1,14 +1,14 @@
-# Generative AI Research Project
+# Using Generative AI Tools-Boon or Bane
 
 ## Overview
-This project explores whether generative AI tools are beneficial or harmful.
+This project investigates the impact of generative AI tools and evaluates whether they are beneficial (boon) or harmful (bane) in different contexts.
 
 ## Data Organisation
-- qualitative_data: interview data, transcripts, and consent forms
-- quantitative_data: survey data and analysis scripts
-- literature_review: research papers and references
-- reports: draft and final reports
+- literature_review: academic papers and reference materials
+- qualitative_data: interview transcripts, consent forms, and qualitative analysis
+- quantitative_data: survey data, datasets, and analysis scripts
+- reports: research drafts and final reports
 - additional_materials: images and supporting files
 
 ## Version Control
-GitHub is used to manage and track changes in this project.
+GitHub is used to manage and track changes, ensuring efficient collaboration and version control throughout the research project.
